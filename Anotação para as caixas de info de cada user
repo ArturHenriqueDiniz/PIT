@@ -1,0 +1,5 @@
+para saber id da conta, dar um select na tabela que busque o ultimo registro logo após o cadastro, pegar o id é conectar com a sessão, buscar dados referentes a esse id e apresentar na tela inicial
+
+para mostrar outras contas, criar um função, que crie uma div com as informações em cada campos, as info são colocadas de acordo com o id do for
+
+criar um for, de 1 a o número de linhas da tabela, e colocar nome, idade, raça e etc respectivo ao número do for que corresponde ao id
